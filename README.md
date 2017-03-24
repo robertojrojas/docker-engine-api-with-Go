@@ -2,6 +2,9 @@
 
 This talk was presented on March 21st, 2017 entitled "Introduction to the Docker Remote API with Go"
 
+![Roberto Presentation Photo](docker-api-presentation-photo.jpeg)
+
+
 In this repo are the talk slides along with supporting code.
 
 ## Slides:
